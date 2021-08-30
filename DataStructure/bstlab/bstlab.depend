@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1479141347 source:c:\users\rafi\desktop\bstlab\untitled1.c
+	"stdio.h"
+	"stdlib.h"
+	"string.h"
+
+1482274527 source:c:\users\rafi\desktop\hei\bstlab\untitled1.c
+	"stdio.h"
+	"stdlib.h"
+	"string.h"
+
