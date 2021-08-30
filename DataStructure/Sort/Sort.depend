@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1482276959 source:c:\users\rafi\desktop\hei\sort\untitled1.c
+	"stdio.h"
+	"stdlib.h"
+	"time.h"
+	"math.h"
+
